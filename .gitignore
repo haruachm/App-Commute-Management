@@ -1,3 +1,8 @@
+#Google Map API
+local.properties
+/build
+.gradle
+
 # Miscellaneous
 *.class
 *.log

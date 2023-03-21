@@ -2,6 +2,7 @@
 local.properties
 /build
 .gradle
+ios/Runner/Storage.swift
 
 # Miscellaneous
 *.class
